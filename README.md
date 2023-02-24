@@ -1,6 +1,6 @@
 # "Starnight" One Page Website Template
 
-"Starnight" is a one page website template made by [Peter Finlan](http://peterfinlan.com/).
+Piano4Schools is built on top of the [Starnight Template](http://peterfinlan.com/)
 
 [Download](https://dribbble.com/shots/1592140-Freebie-Starnight-HTML5-CSS3-Website-Template)
 
