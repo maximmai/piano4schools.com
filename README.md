@@ -1,4 +1,4 @@
-# "Starnight" One Page Website Template
+# "piano4schools" Website
 
 Piano4Schools is built on top of the [Starnight Template](http://peterfinlan.com/)
 
